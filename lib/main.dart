@@ -41,7 +41,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Consulta de CEP - Nome do Aluno - 12/06/2024'),
+        title: const Text('Consulta de CEP - Karllos Pereira - 12/06/2024'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
